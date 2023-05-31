@@ -1,4 +1,7 @@
-# vue-counter
+# vue-Quiz app
+test live app on below url
+
+https://gregarious-torte-bda224.netlify.app/
 
 ## Project setup
 ```
